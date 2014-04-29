@@ -1,4 +1,4 @@
 Algorithm-Proplem
 =================
 Hello
-  This is myself saveing solve algorithm proplem Storage.
+  This is myself saving solve algorithm proplem Storage.
